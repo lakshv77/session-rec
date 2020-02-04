@@ -1,4 +1,4 @@
-# gru4rec
+# session-rec
 - This code is based on [GRU4REC-pytorch] https://github.com/hungthanhpham94/GRU4REC-pytorch which is a PyTorch Implementation of the GRU4REC model.
 - Original paper: [Session-based Recommendations with Recurrent Neural Networks(ICLR 2016)](https://arxiv.org/pdf/1511.06939.pdf)
 - Extension over the Original paper: [Recurrent Neural Networks with Top-k Gains for Session-based

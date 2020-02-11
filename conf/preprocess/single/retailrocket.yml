@@ -1,0 +1,16 @@
+---
+type: single # single|window
+preprocessor: retailrocket #
+data:
+  folder: data/retailrocket/raw/
+  prefix: retailrocket
+
+filter:
+  min_item_support: 5
+  min_session_length: 2
+
+params:
+  days_test: 1
+
+output:
+  folder: data/retailrocket/prepared/

@@ -35,5 +35,5 @@ python run_config.py conf/<<yml file with model config>>
 
 ### Dataset
 
-RecSys Challenge 2015 Dataset can be retreived from [HERE](https://2015.recsyschallenge.com/)
+RecSys Challenge 2015 Dataset can be retreived from [HERE](https://2015.recsyschallenge.com/)<br/>
 Retail Rocket Dataset https://www.kaggle.com/retailrocket/ecommerce-dataset
